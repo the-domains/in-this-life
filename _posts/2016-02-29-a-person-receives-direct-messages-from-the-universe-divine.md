@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "A person receives direct messages from the universe, divine signs is what is needed to avert a self-destructive nature.\t\t\t\t\t\t\t\t"
-datePublished: '2016-02-29T14:06:59.178Z'
-dateModified: '2016-02-29T14:05:25.191Z'
+datePublished: '2016-02-29T14:31:41.040Z'
+dateModified: '2016-02-29T14:30:39.151Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-29-a-person-receives-direct-messages-from-the-universe-divine.md
